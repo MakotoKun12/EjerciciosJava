@@ -1,10 +1,10 @@
 package Polimorfismo;
 
-class ComissionEmployee extends Employee {
+class CommissionEmployee extends Employee {
     private double sales;
     private double comissionRate;
 
-    public ComissionEmployee(String name, int id, double sales, double comissionRate) {
+    public CommissionEmployee(String name, int id, double sales, double comissionRate) {
         super(name, id);
         this.sales = sales;
         this.comissionRate = comissionRate;
