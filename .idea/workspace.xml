@@ -4,19 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5983ad8-542b-436b-915c-e3ecfb4465b9" name="Changes" comment="relationship between objects">
-      <change afterPath="$PROJECT_DIR$/src/PrinciplesDesign/ComposicionSobreHerencia/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrinciplesDesign/ComposicionSobreHerencia/ElectricEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrinciplesDesign/ComposicionSobreHerencia/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrinciplesDesign/ComposicionSobreHerencia/GasolineEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrinciplesDesign/ComposicionSobreHerencia/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrinciplesDesign/EncapsulaLoQueVaria/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrinciplesDesign/EncapsulaLoQueVaria/TaxCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrinciplesDesign/InterfazNoUnaImplementacion/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrinciplesDesign/InterfazNoUnaImplementacion/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrinciplesDesign/InterfazNoUnaImplementacion/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrinciplesDesign/InterfazNoUnaImplementacion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrinciplesDesign/InterfazNoUnaImplementacion/Tester.java" afterDir="false" />
+    <list default="true" id="a5983ad8-542b-436b-915c-e3ecfb4465b9" name="Changes" comment="design principles">
+      <change afterPath="$PROJECT_DIR$/src/SOLID/D_PrinciprioInversionDependencias/BudgetReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/D_PrinciprioInversionDependencias/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/D_PrinciprioInversionDependencias/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/D_PrinciprioInversionDependencias/MongoDBDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/D_PrinciprioInversionDependencias/MySQLDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I_PrincipioSegregacionInterfaces/Amazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I_PrincipioSegregacionInterfaces/CDNProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I_PrincipioSegregacionInterfaces/CloudHostingProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I_PrincipioSegregacionInterfaces/CloudStorageProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I_PrincipioSegregacionInterfaces/Dropbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/I_PrincipioSegregacionInterfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/L_PrincipioSustitucionLiskov/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/L_PrincipioSustitucionLiskov/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/L_PrincipioSustitucionLiskov/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/O_PrincipioAbiertoCerrado/DeliveryStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/O_PrincipioAbiertoCerrado/FlyShipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/O_PrincipioAbiertoCerrado/GroundShipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/O_PrincipioAbiertoCerrado/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/O_PrincipioAbiertoCerrado/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/S_PrincipioResponsabilidadUnica/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/S_PrincipioResponsabilidadUnica/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/S_PrincipioResponsabilidadUnica/PrintLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/S_PrincipioResponsabilidadUnica/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,11 +93,20 @@
       <option name="project" value="LOCAL" />
       <updated>1721407511374</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="design principles">
+      <option name="closed" value="true" />
+      <created>1721750592202</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721750592202</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="relationship between objects" />
-    <option name="LAST_COMMIT_MESSAGE" value="relationship between objects" />
+    <MESSAGE value="design principles" />
+    <option name="LAST_COMMIT_MESSAGE" value="design principles" />
   </component>
 </project>
